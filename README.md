@@ -1,6 +1,6 @@
 # week-1-typescript-assignment-olsenh1
 week-1-typescript-assignment-olsenh1 created by GitHub Classroom
-# Henrik Olsen (0913075)
+## Henrik Olsen (0913075)
 
 1.	GitHub repository URL
 https://github.com/SWDV-665/week-1-typescript-assignment-olsenh1
